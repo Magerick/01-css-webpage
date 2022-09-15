@@ -148,7 +148,7 @@ Restructuring starts here:*/
     padding: 20px;
     clear: both;
     float: left;
-    /*Swapped the margin and float values from right to left.*/
+/*Swapped the margin and float values from right to left.*/
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -210,7 +210,6 @@ Restructuring starts here:*/
     text-align: center;
 }
 /*Restructuring ends here.*/
-
 
 /*Changed the footer id from h2 to h4; aligns with the html.*/
 .footer h4 {
