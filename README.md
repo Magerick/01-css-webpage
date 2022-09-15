@@ -7,7 +7,7 @@ N/A
 
 ## Usage
 The webpage is used to display information about "Search Engine Optimization" (SEO) and its supporting concepts. In the event of a image load error, the alt attributes will summarize said images in text format. Hovering over the images will also display the attributes.
-```md![alt text](assets/images/screenshot.png)```
+![alt text](.assets/images/screenshot.png?raw=true)
 
 ## License
 Licensed under the MIT license.
