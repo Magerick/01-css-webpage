@@ -11,6 +11,11 @@ The webpage is used to display information about "Search Engine Optimization" (S
 
 ![alt text](assets/images/screenshot.png?raw=true)
 
+Clicking the navigation links on the top right of the page shifts to their associated figures.
+
+![alt text](assets/images/screenshot-2.png?raw=true)
+![alt text](assets/images/screenshot-3.png?raw=true)
+
 Webpage: https://magerick.github.io/c1-css-webpage/
 
 ## License
