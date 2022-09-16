@@ -61,12 +61,6 @@ p {
     background-position: center;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-right: 20px;
-}
-
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,6 +69,12 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 /*Reordered the css elements .search-engine-optimization, .online-reputation-management, and .social-media-marketing 
@@ -140,7 +140,7 @@ Restructuring starts here:*/
 
 Restructuring starts here:*/
 .benefits {
-    margin-right: 25px;
+    margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
